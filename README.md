@@ -1,4 +1,9 @@
-
+<div align="center">
+  <a href="https://github.com/rjuarez1903">
+  <img height="175em" width="370" src="https://github-readme-stats.vercel.app/api?username=rjuarez1903&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjuarez1903&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<hr>
 
 - 👋 Hi, I’m Rodrigo! A front end enthusiast and a software development student! I'm also a Clinical and Occupational Psychologist 🤓
 - 👀 I’m interested in web development.
