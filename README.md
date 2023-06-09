@@ -5,9 +5,9 @@
 </div>
 <hr>
 
-- 👋 Hi, I’m Rodrigo! A front end enthusiast and a software development student! I'm also a Clinical and Occupational Psychologist 🤓
+- 👋 Hi, I’m Rodrigo, a full stack developer! I'm also a Clinical and Occupational Psychologist 🤓
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Vue and Java 💪
+- 🌱 I’m currently polishing my Java and React skills 💪
 - 💞️ I’m looking to collaborate on web development projects from anywhere around the world! 🌎
 - 📫 Would you like to reach me? https://www.linkedin.com/in/rodrigo-is-coding/
 
