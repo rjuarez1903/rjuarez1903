@@ -5,8 +5,8 @@
 </div>
 <hr>
 
-- 👋 Hi, I’m Rodrigo, a full stack developer! I'm also a Clinical and Occupational Psychologist 🤓
-- 👀 I’m interested in mobile and web development.
+- 👋 Hi, I’m Rodrigo, a Mobile and Web Developer! I'm also a Clinical and Occupational Psychologist 🤓
+- 👀 I’m interested in AI and LLM.
 - 🌱 I’m currently Jetpack Compose 💪
 - 💞️ I’m looking to collaborate on web development projects from anywhere around the world! 🌎
 - 📫 Would you like to reach me? https://www.linkedin.com/in/rodrigo-is-coding/
